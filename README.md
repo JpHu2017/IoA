@@ -3,7 +3,7 @@
 
 ## 创建github新项目
 1. 首先在本地
-git init
+'git init'
 git add -A 
 git commit -m "Some thing"
 
