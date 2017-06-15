@@ -1,11 +1,11 @@
 # IoA
 实现算法导论系列数据结构和相关算法
 
-##创建github新项目
+## 创建github新项目
 1. 首先在本地
-'git init'
-'git add -A'
-'git commit -m "Some thing"'
+' git init '
+' git add -A '
+' git commit -m "Some thing" '
 
 2. 在github上新建仓库repository
 之后在本地项目中
