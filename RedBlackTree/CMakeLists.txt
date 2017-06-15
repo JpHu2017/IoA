@@ -9,7 +9,7 @@ set(GLOG_LIBRARIES_DIRS "/usr/lib/x86_64-linux-gnu")
 include_directories(${GLOG_INCLUDE_DIRS})
 link_directories(${GLOG_LIBRARIES_DIRS}$)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES main.cpp RBTree.cpp RBTree.h)
 add_executable(RedBlackTree ${SOURCE_FILES})
 
 target_link_libraries(RedBlackTree -lglog)
